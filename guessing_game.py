@@ -1,3 +1,7 @@
+''' A four-digit guessing game.
+This game gives you 10 chances to guess a four-digit computer generated game. just type in your guess and it will tell how many numbers are found in their correct place and incorrect place in each round.
+The uses the command line interface for interaction
+'''
 import random
 
 def four_digit_guess():
